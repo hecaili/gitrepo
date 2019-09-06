@@ -1,0 +1,2 @@
+vim vim aaa a.txt
+
